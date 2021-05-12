@@ -9,3 +9,5 @@
 ## [1.2 Sentiment Bar Chart (2011)](https://github.com/drdataSpp/Spp-NLP-On-Elon-Musks-Tweets/blob/master/2011%20-%20SA%20Bar%20Chart.png)
 
 ## [1.3 Word Cloud Analysis (2011)](https://github.com/drdataSpp/Spp-NLP-On-Elon-Musks-Tweets/blob/master/2011%20-%20SA%20Word%20Cloud.png)
+
+## [1.4 2011 Tweet Analysis - R Script Link](https://github.com/drdataSpp/Spp-NLP-On-Elon-Musks-Tweets/blob/master/2011-Elon%20Musk%20Tweet%20Analysis.R)
