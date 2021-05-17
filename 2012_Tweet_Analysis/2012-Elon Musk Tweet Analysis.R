@@ -50,7 +50,7 @@ head(year2.tweets.word.df)
 head(year2.tweets.emotion.df2)
 
 
-## TASK 4 - FINDING THE MOST POSITIVE & NEGATIVE ELON MUSK'S TWEET
+## TASK 4 - FINDING THE MOST POSITIVE & NEGATIVE TWEET
 
 year2.tweets.sent.value <- get_sentiment(year2.tweets.word.df)
 
@@ -86,20 +86,20 @@ legend('topright', year2.tweets.labels, cex=0.8,
        fill = rainbow(length(year2.tweets.labels)))
 
 
-## TASK 6 - TERM DOCUMENT MATRIX OF 2011 ELON MUSK TWEETS
+## TASK 6 - TERM DOCUMENT MATRIX OF TWEETS
 
 year2.tweets.tweet_corpus <- Corpus(VectorSource(year2.tweets.word.df))
 
 
 year2.tweets.tdm <- TermDocumentMatrix(year2.tweets.tweet_corpus,
      control = list(removePunctuation = TRUE, wordLengths=c(5, 15),
-                    stopwords =  c("tweets", "others", "today", "carsâby",
-                                   "ideaâ") ,stopwords("english"),
+                    stopwords =  c("tweets", "others", "today", "carsÃ¢by",
+                                   "ideaÃ¢") ,stopwords("english"),
                     removeNumbers = TRUE, tolower = TRUE))
 
 
 
-## CALCULATING THE COUNTS OF DIFFERENT EMOTIONS FROM ELON MUSK TWEETS (Year = 2011)
+## CALCULATING THE EMOTIONS FROM THE TWEETS
 
 head(year2.tweets.tdm)
 year2.tweets.DF <- tidy(year2.tweets.tdm)
@@ -107,7 +107,7 @@ head(year2.tweets.DF)
 head(year2.tweets.DF$term)
 year2.tweets.DF.texts <- as.vector(year2.tweets.DF$term)
 
-# SENTIMENT ANALYSIS ON ELON MUSK'S TWEETS
+
 year2.tweets.DF.texts.Sentiment<-get_nrc_sentiment((year2.tweets.DF.texts))
 
 year2.tweets.positive =sum(year2.tweets.DF.texts.Sentiment$positive)
@@ -121,7 +121,7 @@ year2.tweets.surprise =sum(year2.tweets.DF.texts.Sentiment$surprise)
 year2.tweets.trust =sum(year2.tweets.DF.texts.Sentiment$trust)
 year2.tweets.negative =sum(year2.tweets.DF.texts.Sentiment$negative)
 
-# BAR CHART ON CALCULATED SENTIMENTS
+# BAR CHART ON EMOTIONS
 year2.tweets.yAxis <- c(year2.tweets.positive,
                         + year2.tweets.anger,
                         + year2.tweets.anticipation,
