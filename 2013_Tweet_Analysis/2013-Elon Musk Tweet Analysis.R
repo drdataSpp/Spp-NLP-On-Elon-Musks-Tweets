@@ -157,7 +157,6 @@ year3.tweets.dm <- data.frame(word=names(year3.tweets.word_freqs), freq=year3.tw
 
 wordcloud(year3.tweets.dm$word, year3.tweets.dm$freq, 
           min.freq = 10, max.words = 100, random.order=FALSE, 
-          main="Word Cloud on Elon Musk's 2012 Tweets.",
           colors=brewer.pal(8, "Dark2"))
 
 
