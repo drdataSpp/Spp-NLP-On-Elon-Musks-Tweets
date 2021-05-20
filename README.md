@@ -36,7 +36,7 @@
 
 ## [3.3 Word Cloud Analysis (2013)](https://github.com/drdataSpp/Spp-NLP-On-Elon-Musks-Tweets/blob/master/2013_Tweet_Analysis/2013%20-%20SA%20Word%20Cloud.png)
 
-<img src="https://github.com/drdataSpp/Spp-NLP-On-Elon-Musks-Tweets/blob/master/2013_Tweet_Analysis/2013%20-%20SA%20Word%20Cloud.png" width="600" height="500"/>
+<img src="https://github.com/drdataSpp/Spp-NLP-On-Elon-Musks-Tweets/blob/master/2013_Tweet_Analysis/2013%20-%20SA%20Word%20Cloud.png" width="600" height="400"/>
 
 ## [3.4 2013 Tweet Analysis - R Script Link](https://github.com/drdataSpp/Spp-NLP-On-Elon-Musks-Tweets/blob/master/2013_Tweet_Analysis/2013-Elon%20Musk%20Tweet%20Analysis.R)
 
