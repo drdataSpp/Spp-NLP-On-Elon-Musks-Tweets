@@ -28,6 +28,7 @@
 
 ## [1.4 2011 Tweet Analysis - R Script Link](https://github.com/drdataSpp/Spp-NLP-On-Elon-Musks-Tweets/blob/master/2011_Tweet_Analysis/2011-Elon%20Musk%20Tweet%20Analysis.R)
 
+<hr></hr>
 
 ## 2. Analyzing Elon Musk's Tweets from *2012 to 2013*.
 
@@ -41,6 +42,7 @@
 
 ## [2.4 2012 Tweet Analysis - R Script Link](https://github.com/drdataSpp/Spp-NLP-On-Elon-Musks-Tweets/blob/master/2012_Tweet_Analysis/2012-Elon%20Musk%20Tweet%20Analysis.R)
 
+<hr></hr>
 
 ## 3. Analyzing Elon Musk's Tweets from *2013 to 2014*.
 
@@ -53,5 +55,7 @@
 <img src="https://github.com/drdataSpp/Spp-NLP-On-Elon-Musks-Tweets/blob/master/2013_Tweet_Analysis/2013%20-%20SA%20Word%20Cloud.png" width="600" height="400"/>
 
 ## [3.4 2013 Tweet Analysis - R Script Link](https://github.com/drdataSpp/Spp-NLP-On-Elon-Musks-Tweets/blob/master/2013_Tweet_Analysis/2013-Elon%20Musk%20Tweet%20Analysis.R)
+
+<hr></hr>
 
 
