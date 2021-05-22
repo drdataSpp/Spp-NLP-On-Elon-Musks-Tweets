@@ -58,4 +58,31 @@
 
 <hr></hr>
 
+## 4. Analyzing Elon Musk's Tweets from *2014 to 2015*.
+
+## [4.1 Sentiment Pie Chart (2014)](https://github.com/drdataSpp/Spp-NLP-On-Elon-Musks-Tweets/blob/master/2014_Tweet_Analysis/2014%20-%20SA%20Pie%20Chart.png)
+
+## [4.2 Emotions Bar Chart (2014)](https://github.com/drdataSpp/Spp-NLP-On-Elon-Musks-Tweets/blob/master/2014_Tweet_Analysis/2014%20-%20SA%20Bar%20Chart.png)
+
+## [4.3 Word Cloud Analysis (2014)](https://github.com/drdataSpp/Spp-NLP-On-Elon-Musks-Tweets/blob/master/2014_Tweet_Analysis/2014%20-%20SA%20Word%20Cloud.png)
+
+<img src="https://github.com/drdataSpp/Spp-NLP-On-Elon-Musks-Tweets/blob/master/2014_Tweet_Analysis/2014%20-%20SA%20Word%20Cloud.png" width="600" height="400"/>
+
+## [4.4 2014 Tweet Analysis - R Script Link](https://github.com/drdataSpp/Spp-NLP-On-Elon-Musks-Tweets/blob/master/2014_Tweet_Analysis/2014-Elon%20Musk%20Tweet%20Analysis.R)
+
+<hr></hr>
+
+## 5. Analyzing Elon Musk's Tweets from *2015 to 2016*.
+
+## [5.1 Sentiment Pie Chart (2015)](https://github.com/drdataSpp/Spp-NLP-On-Elon-Musks-Tweets/blob/master/2015_Tweet_Analysis/2015%20-%20SA%20Pie%20Chart.png)
+
+## [5.2 Emotions Bar Chart (2015)](https://github.com/drdataSpp/Spp-NLP-On-Elon-Musks-Tweets/blob/master/2015_Tweet_Analysis/2015%20-%20SA%20Bar%20Chart.png)
+
+## [5.3 Word Cloud Analysis (2015)](https://github.com/drdataSpp/Spp-NLP-On-Elon-Musks-Tweets/blob/master/2015_Tweet_Analysis/2015%20-%20SA%20Word%20Cloud.png)
+
+<img src="https://github.com/drdataSpp/Spp-NLP-On-Elon-Musks-Tweets/blob/master/2015_Tweet_Analysis/2015%20-%20SA%20Word%20Cloud.png" width="600" height="400"/>
+
+## [5.4 2015 Tweet Analysis - R Script Link](https://github.com/drdataSpp/Spp-NLP-On-Elon-Musks-Tweets/blob/master/2015_Tweet_Analysis/2015-Elon%20Musk%20Tweet%20Analysis.R)
+
+<hr></hr>
 
