@@ -86,3 +86,17 @@
 
 <hr></hr>
 
+## 6. Analyzing Elon Musk's Tweets from *2016 to 2017*.
+
+## [6.1 Sentiment Pie Chart (2016)](https://github.com/drdataSpp/Spp-NLP-On-Elon-Musks-Tweets/blob/master/2016_Tweet_Analysis/2016%20-%20SA%20Pie%20Chart.png)
+
+## [6.2 Emotions Bar Chart (2016)](https://github.com/drdataSpp/Spp-NLP-On-Elon-Musks-Tweets/blob/master/2016_Tweet_Analysis/2016%20-%20SA%20Bar%20Chart.png)
+
+## [6.3 Word Cloud Analysis (2016)](https://github.com/drdataSpp/Spp-NLP-On-Elon-Musks-Tweets/blob/master/2016_Tweet_Analysis/2016%20-%20SA%20Word%20Cloud.png)
+
+<img src="https://github.com/drdataSpp/Spp-NLP-On-Elon-Musks-Tweets/blob/master/2016_Tweet_Analysis/2016%20-%20SA%20Word%20Cloud.png" width="600" height="400"/>
+
+## [6.4 2016 Tweet Analysis - R Script Link](https://github.com/drdataSpp/Spp-NLP-On-Elon-Musks-Tweets/blob/master/2016_Tweet_Analysis/2016-Elon%20Musk%20Tweet%20Analysis.R)
+
+<hr></hr>
+
