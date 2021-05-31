@@ -124,4 +124,16 @@
 
 <hr></hr>
 
+## 9. Analyzing Elon Musk's Tweets from *2019 to 2020*.
+
+## [9.1 Sentiment Pie Chart (2019)](https://github.com/drdataSpp/Spp-NLP-On-Elon-Musks-Tweets/blob/master/2019_Tweet_Analysis/2019%20-%20SA%20Pie%20Chart.png)
+
+## [9.2 Word Cloud Analysis (2019)](https://github.com/drdataSpp/Spp-NLP-On-Elon-Musks-Tweets/blob/master/2019_Tweet_Analysis/2019%20-%20SA%20Word%20Cloud.png)
+
+<img src="https://github.com/drdataSpp/Spp-NLP-On-Elon-Musks-Tweets/blob/master/2019_Tweet_Analysis/2019%20-%20SA%20Word%20Cloud.png" width="600" height="400"/>
+
+## [9.3 2019 Tweet Analysis - R Script Link](https://github.com/drdataSpp/Spp-NLP-On-Elon-Musks-Tweets/blob/master/2019_Tweet_Analysis/2019-Elon%20Musk%20Tweet%20Analysis.R)
+
+<hr></hr>
+
 
